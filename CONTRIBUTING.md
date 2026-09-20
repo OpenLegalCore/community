@@ -18,7 +18,8 @@ For technical proposals, include the problem, constraints, proposed approach, se
 - Use organization Discussions for project-wide questions, ideas, proposals, and governance topics.
 - Use the affected repository's issue tracker for reproducible bugs and concrete tasks.
 - Use a pull request in the affected repository for reviewed changes.
-- Use the private reporting path described in [SECURITY.md](SECURITY.md) for vulnerabilities or sensitive incidents.
+- Use the private reporting path described in [SECURITY.md](SECURITY.md) for vulnerabilities or sensitive incidents. Never post security details publicly.
+- Use the [published contribution paths](https://openlegalcore.org/#contribute) for legal, methodological, source, partnership, or commercial inquiries that do not belong in a code issue.
 - Use Slack only for invited collaboration that is not suitable for a public forum.
 
 ## Never post publicly
@@ -39,4 +40,3 @@ Use synthetic or properly cleared examples. If you are unsure whether informatio
 Be precise, constructive, and respectful. Critique ideas and evidence, not people. Maintainers may edit categories, close duplicates, lock harmful threads, or move actionable work to an issue. Participation is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 OpenLegalCore is founder-led. A discussion creates an opportunity for review; it does not by itself commit the project to a decision, implementation, support obligation, or release date.
-
